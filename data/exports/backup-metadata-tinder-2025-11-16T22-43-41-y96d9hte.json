@@ -1,0 +1,22 @@
+{
+  "sessionId": "session_1763333021897_4y96d9hte",
+  "config": {
+    "brand": "tinder",
+    "searches": [
+      "tinder",
+      "tinder gold"
+    ],
+    "type": "all",
+    "sort": "new",
+    "time": "month",
+    "maxItems": 300,
+    "maxComments": 25
+  },
+  "stats": {
+    "totalPosts": 300,
+    "totalComments": 3634,
+    "avgEngagement": 1003
+  },
+  "exportedAt": "2025-11-16T22:43:41.941Z",
+  "note": "This file was created as a backup due to database operation failure"
+}

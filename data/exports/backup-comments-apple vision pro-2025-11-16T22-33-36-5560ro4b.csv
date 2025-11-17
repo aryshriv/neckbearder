@@ -1,0 +1,633 @@
+Comment ID,Post ID,Post Title,Post URL,Comment Body,Comment Upvotes
+comment_0_0,post_0,Is apple vision pro worth the price?,https://reddit.com/r/example/post_0,Comment about apple vision pro. This is a sample response.,453
+comment_0_1,post_0,Is apple vision pro worth the price?,https://reddit.com/r/example/post_0,Comment about apple vision pro. This is a sample response.,65
+comment_0_2,post_0,Is apple vision pro worth the price?,https://reddit.com/r/example/post_0,Comment about apple vision pro. This is a sample response.,373
+comment_0_3,post_0,Is apple vision pro worth the price?,https://reddit.com/r/example/post_0,Comment about apple vision pro. This is a sample response.,317
+comment_0_4,post_0,Is apple vision pro worth the price?,https://reddit.com/r/example/post_0,Comment about apple vision pro. This is a sample response.,182
+comment_0_5,post_0,Is apple vision pro worth the price?,https://reddit.com/r/example/post_0,Comment about apple vision pro. This is a sample response.,62
+comment_0_6,post_0,Is apple vision pro worth the price?,https://reddit.com/r/example/post_0,Comment about apple vision pro. This is a sample response.,421
+comment_0_7,post_0,Is apple vision pro worth the price?,https://reddit.com/r/example/post_0,Comment about apple vision pro. This is a sample response.,296
+comment_0_8,post_0,Is apple vision pro worth the price?,https://reddit.com/r/example/post_0,Comment about apple vision pro. This is a sample response.,251
+comment_0_9,post_0,Is apple vision pro worth the price?,https://reddit.com/r/example/post_0,Comment about apple vision pro. This is a sample response.,424
+comment_1_0,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,18
+comment_1_1,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,241
+comment_1_2,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,307
+comment_1_3,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,292
+comment_1_4,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,37
+comment_1_5,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,346
+comment_1_6,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,107
+comment_1_7,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,76
+comment_1_8,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,24
+comment_1_9,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,36
+comment_1_10,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,64
+comment_1_11,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,252
+comment_1_12,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,15
+comment_1_13,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,54
+comment_1_14,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,133
+comment_1_15,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,174
+comment_1_16,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,451
+comment_1_17,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,14
+comment_1_18,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,450
+comment_1_19,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,203
+comment_1_20,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,42
+comment_1_21,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,355
+comment_1_22,post_1,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_1,Comment about apple vision pro. This is a sample response.,391
+comment_2_0,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,70
+comment_2_1,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,427
+comment_2_2,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,337
+comment_2_3,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,300
+comment_2_4,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,315
+comment_2_5,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,383
+comment_2_6,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,130
+comment_2_7,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,150
+comment_2_8,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,297
+comment_2_9,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,235
+comment_2_10,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,346
+comment_2_11,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,183
+comment_2_12,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,143
+comment_2_13,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,466
+comment_2_14,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,463
+comment_2_15,post_2,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_2,Comment about apple vision pro. This is a sample response.,201
+comment_3_0,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,219
+comment_3_1,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,179
+comment_3_2,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,192
+comment_3_3,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,131
+comment_3_4,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,416
+comment_3_5,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,82
+comment_3_6,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,63
+comment_3_7,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,241
+comment_3_8,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,424
+comment_3_9,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,174
+comment_3_10,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,185
+comment_3_11,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,267
+comment_3_12,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,298
+comment_3_13,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,425
+comment_3_14,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,380
+comment_3_15,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,375
+comment_3_16,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,86
+comment_3_17,post_3,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_3,Comment about apple vision pro. This is a sample response.,423
+comment_4_0,post_4,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_4,Comment about apple vision pro. This is a sample response.,241
+comment_4_1,post_4,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_4,Comment about apple vision pro. This is a sample response.,354
+comment_4_2,post_4,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_4,Comment about apple vision pro. This is a sample response.,144
+comment_4_3,post_4,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_4,Comment about apple vision pro. This is a sample response.,422
+comment_4_4,post_4,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_4,Comment about apple vision pro. This is a sample response.,449
+comment_4_5,post_4,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_4,Comment about apple vision pro. This is a sample response.,57
+comment_4_6,post_4,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_4,Comment about apple vision pro. This is a sample response.,437
+comment_4_7,post_4,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_4,Comment about apple vision pro. This is a sample response.,245
+comment_4_8,post_4,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_4,Comment about apple vision pro. This is a sample response.,139
+comment_4_9,post_4,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_4,Comment about apple vision pro. This is a sample response.,241
+comment_4_10,post_4,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_4,Comment about apple vision pro. This is a sample response.,135
+comment_5_0,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,384
+comment_5_1,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,156
+comment_5_2,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,111
+comment_5_3,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,326
+comment_5_4,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,200
+comment_5_5,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,169
+comment_5_6,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,49
+comment_5_7,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,246
+comment_5_8,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,12
+comment_5_9,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,468
+comment_5_10,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,75
+comment_5_11,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,262
+comment_5_12,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,180
+comment_5_13,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,370
+comment_5_14,post_5,apple vision pro battery life - how long?,https://reddit.com/r/example/post_5,Comment about apple vision pro. This is a sample response.,459
+comment_6_0,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,323
+comment_6_1,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,83
+comment_6_2,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,4
+comment_6_3,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,322
+comment_6_4,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,97
+comment_6_5,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,355
+comment_6_6,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,474
+comment_6_7,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,112
+comment_6_8,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,97
+comment_6_9,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,208
+comment_6_10,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,447
+comment_6_11,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,159
+comment_6_12,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,185
+comment_6_13,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,330
+comment_6_14,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,251
+comment_6_15,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,243
+comment_6_16,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,64
+comment_6_17,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,280
+comment_6_18,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,370
+comment_6_19,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,206
+comment_6_20,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,239
+comment_6_21,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,453
+comment_6_22,post_6,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_6,Comment about apple vision pro. This is a sample response.,322
+comment_7_0,post_7,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_7,Comment about apple vision pro. This is a sample response.,331
+comment_7_1,post_7,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_7,Comment about apple vision pro. This is a sample response.,221
+comment_7_2,post_7,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_7,Comment about apple vision pro. This is a sample response.,424
+comment_7_3,post_7,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_7,Comment about apple vision pro. This is a sample response.,216
+comment_7_4,post_7,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_7,Comment about apple vision pro. This is a sample response.,455
+comment_8_0,post_8,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_8,Comment about apple vision pro. This is a sample response.,137
+comment_8_1,post_8,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_8,Comment about apple vision pro. This is a sample response.,177
+comment_8_2,post_8,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_8,Comment about apple vision pro. This is a sample response.,464
+comment_8_3,post_8,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_8,Comment about apple vision pro. This is a sample response.,48
+comment_8_4,post_8,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_8,Comment about apple vision pro. This is a sample response.,112
+comment_8_5,post_8,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_8,Comment about apple vision pro. This is a sample response.,450
+comment_8_6,post_8,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_8,Comment about apple vision pro. This is a sample response.,455
+comment_8_7,post_8,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_8,Comment about apple vision pro. This is a sample response.,443
+comment_9_0,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,192
+comment_9_1,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,271
+comment_9_2,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,362
+comment_9_3,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,277
+comment_9_4,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,419
+comment_9_5,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,315
+comment_9_6,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,496
+comment_9_7,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,207
+comment_9_8,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,413
+comment_9_9,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,87
+comment_9_10,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,311
+comment_9_11,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,170
+comment_9_12,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,268
+comment_9_13,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,46
+comment_9_14,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,321
+comment_9_15,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,77
+comment_9_16,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,202
+comment_9_17,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,494
+comment_9_18,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,370
+comment_9_19,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,389
+comment_9_20,post_9,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_9,Comment about apple vision pro. This is a sample response.,388
+comment_10_0,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,131
+comment_10_1,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,328
+comment_10_2,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,134
+comment_10_3,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,233
+comment_10_4,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,289
+comment_10_5,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,35
+comment_10_6,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,21
+comment_10_7,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,19
+comment_10_8,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,272
+comment_10_9,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,228
+comment_10_10,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,283
+comment_10_11,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,280
+comment_10_12,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,411
+comment_10_13,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,216
+comment_10_14,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,80
+comment_10_15,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,228
+comment_10_16,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,364
+comment_10_17,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,11
+comment_10_18,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,205
+comment_10_19,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,226
+comment_10_20,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,248
+comment_10_21,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,139
+comment_10_22,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,151
+comment_10_23,post_10,Is apple vision pro worth the price?,https://reddit.com/r/example/post_10,Comment about apple vision pro. This is a sample response.,206
+comment_11_0,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,147
+comment_11_1,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,214
+comment_11_2,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,164
+comment_11_3,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,498
+comment_11_4,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,481
+comment_11_5,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,381
+comment_11_6,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,44
+comment_11_7,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,312
+comment_11_8,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,10
+comment_11_9,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,434
+comment_11_10,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,203
+comment_11_11,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,441
+comment_11_12,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,197
+comment_11_13,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,14
+comment_11_14,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,294
+comment_11_15,post_11,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_11,Comment about apple vision pro. This is a sample response.,71
+comment_12_0,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,213
+comment_12_1,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,338
+comment_12_2,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,85
+comment_12_3,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,321
+comment_12_4,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,12
+comment_12_5,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,178
+comment_12_6,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,464
+comment_12_7,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,259
+comment_12_8,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,20
+comment_12_9,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,371
+comment_12_10,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,398
+comment_12_11,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,307
+comment_12_12,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,387
+comment_12_13,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,431
+comment_12_14,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,228
+comment_12_15,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,383
+comment_12_16,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,400
+comment_12_17,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,362
+comment_12_18,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,239
+comment_12_19,post_12,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_12,Comment about apple vision pro. This is a sample response.,1
+comment_13_0,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,244
+comment_13_1,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,266
+comment_13_2,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,153
+comment_13_3,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,247
+comment_13_4,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,143
+comment_13_5,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,199
+comment_13_6,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,96
+comment_13_7,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,367
+comment_13_8,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,346
+comment_13_9,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,137
+comment_13_10,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,352
+comment_13_11,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,328
+comment_13_12,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,404
+comment_13_13,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,169
+comment_13_14,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,167
+comment_13_15,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,237
+comment_13_16,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,120
+comment_13_17,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,97
+comment_13_18,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,138
+comment_13_19,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,272
+comment_13_20,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,363
+comment_13_21,post_13,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_13,Comment about apple vision pro. This is a sample response.,484
+comment_14_0,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,353
+comment_14_1,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,172
+comment_14_2,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,341
+comment_14_3,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,306
+comment_14_4,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,51
+comment_14_5,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,453
+comment_14_6,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,136
+comment_14_7,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,6
+comment_14_8,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,117
+comment_14_9,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,357
+comment_14_10,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,336
+comment_14_11,post_14,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_14,Comment about apple vision pro. This is a sample response.,344
+comment_15_0,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,155
+comment_15_1,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,391
+comment_15_2,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,318
+comment_15_3,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,41
+comment_15_4,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,263
+comment_15_5,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,33
+comment_15_6,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,214
+comment_15_7,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,362
+comment_15_8,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,253
+comment_15_9,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,299
+comment_15_10,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,342
+comment_15_11,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,102
+comment_15_12,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,53
+comment_15_13,post_15,apple vision pro battery life - how long?,https://reddit.com/r/example/post_15,Comment about apple vision pro. This is a sample response.,425
+comment_17_0,post_17,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_17,Comment about apple vision pro. This is a sample response.,145
+comment_17_1,post_17,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_17,Comment about apple vision pro. This is a sample response.,424
+comment_17_2,post_17,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_17,Comment about apple vision pro. This is a sample response.,114
+comment_17_3,post_17,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_17,Comment about apple vision pro. This is a sample response.,168
+comment_17_4,post_17,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_17,Comment about apple vision pro. This is a sample response.,76
+comment_17_5,post_17,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_17,Comment about apple vision pro. This is a sample response.,20
+comment_18_0,post_18,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_18,Comment about apple vision pro. This is a sample response.,84
+comment_18_1,post_18,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_18,Comment about apple vision pro. This is a sample response.,335
+comment_18_2,post_18,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_18,Comment about apple vision pro. This is a sample response.,0
+comment_18_3,post_18,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_18,Comment about apple vision pro. This is a sample response.,237
+comment_18_4,post_18,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_18,Comment about apple vision pro. This is a sample response.,43
+comment_18_5,post_18,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_18,Comment about apple vision pro. This is a sample response.,400
+comment_18_6,post_18,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_18,Comment about apple vision pro. This is a sample response.,354
+comment_18_7,post_18,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_18,Comment about apple vision pro. This is a sample response.,327
+comment_19_0,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,61
+comment_19_1,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,26
+comment_19_2,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,458
+comment_19_3,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,475
+comment_19_4,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,386
+comment_19_5,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,172
+comment_19_6,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,269
+comment_19_7,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,152
+comment_19_8,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,371
+comment_19_9,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,467
+comment_19_10,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,271
+comment_19_11,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,81
+comment_19_12,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,442
+comment_19_13,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,132
+comment_19_14,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,490
+comment_19_15,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,35
+comment_19_16,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,473
+comment_19_17,post_19,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_19,Comment about apple vision pro. This is a sample response.,293
+comment_20_0,post_20,Is apple vision pro worth the price?,https://reddit.com/r/example/post_20,Comment about apple vision pro. This is a sample response.,38
+comment_21_0,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,214
+comment_21_1,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,455
+comment_21_2,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,487
+comment_21_3,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,61
+comment_21_4,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,209
+comment_21_5,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,160
+comment_21_6,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,369
+comment_21_7,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,355
+comment_21_8,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,243
+comment_21_9,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,266
+comment_21_10,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,232
+comment_21_11,post_21,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_21,Comment about apple vision pro. This is a sample response.,20
+comment_22_0,post_22,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_22,Comment about apple vision pro. This is a sample response.,476
+comment_22_1,post_22,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_22,Comment about apple vision pro. This is a sample response.,83
+comment_22_2,post_22,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_22,Comment about apple vision pro. This is a sample response.,177
+comment_22_3,post_22,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_22,Comment about apple vision pro. This is a sample response.,232
+comment_22_4,post_22,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_22,Comment about apple vision pro. This is a sample response.,341
+comment_22_5,post_22,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_22,Comment about apple vision pro. This is a sample response.,379
+comment_22_6,post_22,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_22,Comment about apple vision pro. This is a sample response.,323
+comment_22_7,post_22,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_22,Comment about apple vision pro. This is a sample response.,495
+comment_23_0,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,467
+comment_23_1,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,337
+comment_23_2,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,212
+comment_23_3,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,205
+comment_23_4,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,26
+comment_23_5,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,318
+comment_23_6,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,148
+comment_23_7,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,208
+comment_23_8,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,18
+comment_23_9,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,461
+comment_23_10,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,106
+comment_23_11,post_23,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_23,Comment about apple vision pro. This is a sample response.,98
+comment_24_0,post_24,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_24,Comment about apple vision pro. This is a sample response.,290
+comment_24_1,post_24,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_24,Comment about apple vision pro. This is a sample response.,72
+comment_24_2,post_24,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_24,Comment about apple vision pro. This is a sample response.,449
+comment_24_3,post_24,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_24,Comment about apple vision pro. This is a sample response.,440
+comment_24_4,post_24,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_24,Comment about apple vision pro. This is a sample response.,497
+comment_24_5,post_24,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_24,Comment about apple vision pro. This is a sample response.,22
+comment_24_6,post_24,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_24,Comment about apple vision pro. This is a sample response.,241
+comment_24_7,post_24,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_24,Comment about apple vision pro. This is a sample response.,334
+comment_24_8,post_24,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_24,Comment about apple vision pro. This is a sample response.,76
+comment_24_9,post_24,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_24,Comment about apple vision pro. This is a sample response.,355
+comment_25_0,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,137
+comment_25_1,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,391
+comment_25_2,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,19
+comment_25_3,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,293
+comment_25_4,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,15
+comment_25_5,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,352
+comment_25_6,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,208
+comment_25_7,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,475
+comment_25_8,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,385
+comment_25_9,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,216
+comment_25_10,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,278
+comment_25_11,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,41
+comment_25_12,post_25,apple vision pro battery life - how long?,https://reddit.com/r/example/post_25,Comment about apple vision pro. This is a sample response.,34
+comment_26_0,post_26,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_26,Comment about apple vision pro. This is a sample response.,465
+comment_26_1,post_26,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_26,Comment about apple vision pro. This is a sample response.,269
+comment_26_2,post_26,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_26,Comment about apple vision pro. This is a sample response.,494
+comment_26_3,post_26,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_26,Comment about apple vision pro. This is a sample response.,131
+comment_26_4,post_26,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_26,Comment about apple vision pro. This is a sample response.,469
+comment_26_5,post_26,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_26,Comment about apple vision pro. This is a sample response.,93
+comment_26_6,post_26,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_26,Comment about apple vision pro. This is a sample response.,252
+comment_26_7,post_26,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_26,Comment about apple vision pro. This is a sample response.,282
+comment_26_8,post_26,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_26,Comment about apple vision pro. This is a sample response.,13
+comment_26_9,post_26,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_26,Comment about apple vision pro. This is a sample response.,485
+comment_27_0,post_27,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_27,Comment about apple vision pro. This is a sample response.,55
+comment_27_1,post_27,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_27,Comment about apple vision pro. This is a sample response.,133
+comment_27_2,post_27,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_27,Comment about apple vision pro. This is a sample response.,213
+comment_27_3,post_27,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_27,Comment about apple vision pro. This is a sample response.,118
+comment_27_4,post_27,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_27,Comment about apple vision pro. This is a sample response.,435
+comment_27_5,post_27,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_27,Comment about apple vision pro. This is a sample response.,370
+comment_27_6,post_27,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_27,Comment about apple vision pro. This is a sample response.,425
+comment_27_7,post_27,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_27,Comment about apple vision pro. This is a sample response.,427
+comment_27_8,post_27,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_27,Comment about apple vision pro. This is a sample response.,444
+comment_27_9,post_27,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_27,Comment about apple vision pro. This is a sample response.,68
+comment_28_0,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,441
+comment_28_1,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,383
+comment_28_2,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,361
+comment_28_3,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,131
+comment_28_4,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,335
+comment_28_5,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,94
+comment_28_6,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,212
+comment_28_7,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,20
+comment_28_8,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,43
+comment_28_9,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,198
+comment_28_10,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,279
+comment_28_11,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,440
+comment_28_12,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,410
+comment_28_13,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,475
+comment_28_14,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,366
+comment_28_15,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,399
+comment_28_16,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,415
+comment_28_17,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,267
+comment_28_18,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,84
+comment_28_19,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,338
+comment_28_20,post_28,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_28,Comment about apple vision pro. This is a sample response.,84
+comment_29_0,post_29,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_29,Comment about apple vision pro. This is a sample response.,450
+comment_29_1,post_29,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_29,Comment about apple vision pro. This is a sample response.,263
+comment_29_2,post_29,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_29,Comment about apple vision pro. This is a sample response.,370
+comment_29_3,post_29,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_29,Comment about apple vision pro. This is a sample response.,475
+comment_29_4,post_29,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_29,Comment about apple vision pro. This is a sample response.,343
+comment_29_5,post_29,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_29,Comment about apple vision pro. This is a sample response.,423
+comment_29_6,post_29,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_29,Comment about apple vision pro. This is a sample response.,447
+comment_29_7,post_29,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_29,Comment about apple vision pro. This is a sample response.,214
+comment_29_8,post_29,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_29,Comment about apple vision pro. This is a sample response.,423
+comment_30_0,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,151
+comment_30_1,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,499
+comment_30_2,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,154
+comment_30_3,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,424
+comment_30_4,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,26
+comment_30_5,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,11
+comment_30_6,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,397
+comment_30_7,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,221
+comment_30_8,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,157
+comment_30_9,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,314
+comment_30_10,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,362
+comment_30_11,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,485
+comment_30_12,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,449
+comment_30_13,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,214
+comment_30_14,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,489
+comment_30_15,post_30,Is apple vision pro worth the price?,https://reddit.com/r/example/post_30,Comment about apple vision pro. This is a sample response.,11
+comment_31_0,post_31,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_31,Comment about apple vision pro. This is a sample response.,154
+comment_31_1,post_31,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_31,Comment about apple vision pro. This is a sample response.,438
+comment_31_2,post_31,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_31,Comment about apple vision pro. This is a sample response.,3
+comment_31_3,post_31,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_31,Comment about apple vision pro. This is a sample response.,264
+comment_32_0,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,497
+comment_32_1,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,137
+comment_32_2,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,473
+comment_32_3,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,23
+comment_32_4,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,449
+comment_32_5,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,88
+comment_32_6,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,11
+comment_32_7,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,94
+comment_32_8,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,444
+comment_32_9,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,205
+comment_32_10,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,286
+comment_32_11,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,258
+comment_32_12,post_32,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_32,Comment about apple vision pro. This is a sample response.,399
+comment_33_0,post_33,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_33,Comment about apple vision pro. This is a sample response.,473
+comment_34_0,post_34,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_34,Comment about apple vision pro. This is a sample response.,85
+comment_34_1,post_34,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_34,Comment about apple vision pro. This is a sample response.,211
+comment_34_2,post_34,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_34,Comment about apple vision pro. This is a sample response.,276
+comment_34_3,post_34,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_34,Comment about apple vision pro. This is a sample response.,123
+comment_34_4,post_34,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_34,Comment about apple vision pro. This is a sample response.,129
+comment_34_5,post_34,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_34,Comment about apple vision pro. This is a sample response.,186
+comment_34_6,post_34,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_34,Comment about apple vision pro. This is a sample response.,298
+comment_34_7,post_34,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_34,Comment about apple vision pro. This is a sample response.,375
+comment_34_8,post_34,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_34,Comment about apple vision pro. This is a sample response.,288
+comment_35_0,post_35,apple vision pro battery life - how long?,https://reddit.com/r/example/post_35,Comment about apple vision pro. This is a sample response.,97
+comment_35_1,post_35,apple vision pro battery life - how long?,https://reddit.com/r/example/post_35,Comment about apple vision pro. This is a sample response.,383
+comment_35_2,post_35,apple vision pro battery life - how long?,https://reddit.com/r/example/post_35,Comment about apple vision pro. This is a sample response.,257
+comment_35_3,post_35,apple vision pro battery life - how long?,https://reddit.com/r/example/post_35,Comment about apple vision pro. This is a sample response.,132
+comment_35_4,post_35,apple vision pro battery life - how long?,https://reddit.com/r/example/post_35,Comment about apple vision pro. This is a sample response.,315
+comment_35_5,post_35,apple vision pro battery life - how long?,https://reddit.com/r/example/post_35,Comment about apple vision pro. This is a sample response.,248
+comment_35_6,post_35,apple vision pro battery life - how long?,https://reddit.com/r/example/post_35,Comment about apple vision pro. This is a sample response.,29
+comment_35_7,post_35,apple vision pro battery life - how long?,https://reddit.com/r/example/post_35,Comment about apple vision pro. This is a sample response.,342
+comment_36_0,post_36,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_36,Comment about apple vision pro. This is a sample response.,24
+comment_36_1,post_36,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_36,Comment about apple vision pro. This is a sample response.,157
+comment_36_2,post_36,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_36,Comment about apple vision pro. This is a sample response.,388
+comment_36_3,post_36,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_36,Comment about apple vision pro. This is a sample response.,36
+comment_37_0,post_37,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_37,Comment about apple vision pro. This is a sample response.,266
+comment_38_0,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,189
+comment_38_1,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,456
+comment_38_2,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,98
+comment_38_3,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,476
+comment_38_4,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,332
+comment_38_5,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,261
+comment_38_6,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,79
+comment_38_7,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,185
+comment_38_8,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,472
+comment_38_9,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,203
+comment_38_10,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,295
+comment_38_11,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,355
+comment_38_12,post_38,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_38,Comment about apple vision pro. This is a sample response.,272
+comment_39_0,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,355
+comment_39_1,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,36
+comment_39_2,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,357
+comment_39_3,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,49
+comment_39_4,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,307
+comment_39_5,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,315
+comment_39_6,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,357
+comment_39_7,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,250
+comment_39_8,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,317
+comment_39_9,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,491
+comment_39_10,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,420
+comment_39_11,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,39
+comment_39_12,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,170
+comment_39_13,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,50
+comment_39_14,post_39,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_39,Comment about apple vision pro. This is a sample response.,421
+comment_40_0,post_40,Is apple vision pro worth the price?,https://reddit.com/r/example/post_40,Comment about apple vision pro. This is a sample response.,324
+comment_40_1,post_40,Is apple vision pro worth the price?,https://reddit.com/r/example/post_40,Comment about apple vision pro. This is a sample response.,382
+comment_41_0,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,213
+comment_41_1,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,400
+comment_41_2,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,472
+comment_41_3,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,142
+comment_41_4,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,14
+comment_41_5,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,77
+comment_41_6,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,221
+comment_41_7,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,466
+comment_41_8,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,204
+comment_41_9,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,253
+comment_41_10,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,357
+comment_41_11,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,4
+comment_41_12,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,162
+comment_41_13,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,387
+comment_41_14,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,390
+comment_41_15,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,369
+comment_41_16,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,18
+comment_41_17,post_41,How does apple vision pro compare to competitors?,https://reddit.com/r/example/post_41,Comment about apple vision pro. This is a sample response.,108
+comment_42_0,post_42,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_42,Comment about apple vision pro. This is a sample response.,428
+comment_42_1,post_42,What are the pros and cons of apple vision pro?,https://reddit.com/r/example/post_42,Comment about apple vision pro. This is a sample response.,311
+comment_43_0,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,411
+comment_43_1,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,416
+comment_43_2,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,441
+comment_43_3,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,316
+comment_43_4,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,345
+comment_43_5,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,28
+comment_43_6,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,10
+comment_43_7,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,23
+comment_43_8,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,100
+comment_43_9,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,217
+comment_43_10,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,143
+comment_43_11,post_43,Should I buy apple vision pro in 2025?,https://reddit.com/r/example/post_43,Comment about apple vision pro. This is a sample response.,271
+comment_44_0,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,289
+comment_44_1,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,190
+comment_44_2,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,163
+comment_44_3,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,102
+comment_44_4,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,422
+comment_44_5,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,367
+comment_44_6,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,372
+comment_44_7,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,248
+comment_44_8,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,165
+comment_44_9,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,296
+comment_44_10,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,469
+comment_44_11,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,345
+comment_44_12,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,243
+comment_44_13,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,259
+comment_44_14,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,282
+comment_44_15,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,383
+comment_44_16,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,304
+comment_44_17,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,307
+comment_44_18,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,386
+comment_44_19,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,146
+comment_44_20,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,413
+comment_44_21,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,41
+comment_44_22,post_44,Anyone have experience with apple vision pro?,https://reddit.com/r/example/post_44,Comment about apple vision pro. This is a sample response.,374
+comment_45_0,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,384
+comment_45_1,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,297
+comment_45_2,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,151
+comment_45_3,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,227
+comment_45_4,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,192
+comment_45_5,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,277
+comment_45_6,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,376
+comment_45_7,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,448
+comment_45_8,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,498
+comment_45_9,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,116
+comment_45_10,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,444
+comment_45_11,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,191
+comment_45_12,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,440
+comment_45_13,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,225
+comment_45_14,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,33
+comment_45_15,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,392
+comment_45_16,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,462
+comment_45_17,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,105
+comment_45_18,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,404
+comment_45_19,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,459
+comment_45_20,post_45,apple vision pro battery life - how long?,https://reddit.com/r/example/post_45,Comment about apple vision pro. This is a sample response.,76
+comment_46_0,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,412
+comment_46_1,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,218
+comment_46_2,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,289
+comment_46_3,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,275
+comment_46_4,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,359
+comment_46_5,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,36
+comment_46_6,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,16
+comment_46_7,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,99
+comment_46_8,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,138
+comment_46_9,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,395
+comment_46_10,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,67
+comment_46_11,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,481
+comment_46_12,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,334
+comment_46_13,post_46,Is apple vision pro compatible with my setup?,https://reddit.com/r/example/post_46,Comment about apple vision pro. This is a sample response.,427
+comment_47_0,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,376
+comment_47_1,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,140
+comment_47_2,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,54
+comment_47_3,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,300
+comment_47_4,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,92
+comment_47_5,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,238
+comment_47_6,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,103
+comment_47_7,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,318
+comment_47_8,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,130
+comment_47_9,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,231
+comment_47_10,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,150
+comment_47_11,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,344
+comment_47_12,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,457
+comment_47_13,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,104
+comment_47_14,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,370
+comment_47_15,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,196
+comment_47_16,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,53
+comment_47_17,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,109
+comment_47_18,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,287
+comment_47_19,post_47,apple vision pro customer support - any experiences?,https://reddit.com/r/example/post_47,Comment about apple vision pro. This is a sample response.,195
+comment_48_0,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,328
+comment_48_1,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,41
+comment_48_2,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,72
+comment_48_3,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,188
+comment_48_4,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,56
+comment_48_5,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,123
+comment_48_6,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,151
+comment_48_7,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,176
+comment_48_8,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,437
+comment_48_9,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,221
+comment_48_10,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,396
+comment_48_11,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,483
+comment_48_12,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,286
+comment_48_13,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,168
+comment_48_14,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,387
+comment_48_15,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,58
+comment_48_16,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,323
+comment_48_17,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,4
+comment_48_18,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,187
+comment_48_19,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,39
+comment_48_20,post_48,Where to buy apple vision pro at best price?,https://reddit.com/r/example/post_48,Comment about apple vision pro. This is a sample response.,429
+comment_49_0,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,82
+comment_49_1,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,79
+comment_49_2,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,427
+comment_49_3,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,401
+comment_49_4,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,107
+comment_49_5,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,359
+comment_49_6,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,399
+comment_49_7,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,262
+comment_49_8,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,364
+comment_49_9,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,354
+comment_49_10,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,27
+comment_49_11,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,189
+comment_49_12,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,95
+comment_49_13,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,104
+comment_49_14,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,401
+comment_49_15,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,46
+comment_49_16,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,367
+comment_49_17,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,101
+comment_49_18,post_49,apple vision pro vs alternatives - which is better?,https://reddit.com/r/example/post_49,Comment about apple vision pro. This is a sample response.,471

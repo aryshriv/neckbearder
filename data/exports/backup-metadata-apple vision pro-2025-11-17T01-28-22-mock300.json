@@ -1,0 +1,23 @@
+{
+  "sessionId": "mock300",
+  "config": {
+    "brand": "apple vision pro",
+    "searches": [
+      "apple vision pro",
+      "vision pro",
+      "avp"
+    ],
+    "type": "posts",
+    "sort": "hot",
+    "time": "month",
+    "maxItems": 300,
+    "maxComments": 25
+  },
+  "stats": {
+    "totalPosts": 300,
+    "totalComments": 7500,
+    "avgEngagement": 1250
+  },
+  "exportedAt": "2025-11-17T01:28:31.094Z",
+  "note": "Mock data file with 300 posts about Apple Vision Pro"
+}

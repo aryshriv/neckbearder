@@ -1,0 +1,23 @@
+{
+  "sessionId": "session_1763332979823_fl77obhtf",
+  "config": {
+    "brand": "apple vision pro",
+    "searches": [
+      "apple vision pro",
+      "apple vr",
+      "spatial computing"
+    ],
+    "type": "all",
+    "sort": "new",
+    "time": "month",
+    "maxItems": 20,
+    "maxComments": 25
+  },
+  "stats": {
+    "totalPosts": 20,
+    "totalComments": 268,
+    "avgEngagement": 975
+  },
+  "exportedAt": "2025-11-16T22:42:59.870Z",
+  "note": "This file was created as a backup due to database operation failure"
+}
